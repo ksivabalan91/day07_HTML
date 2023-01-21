@@ -1,0 +1,20 @@
+a {
+    color: rebeccapurple;
+    text-decoration: solid;
+    text-shadow: 5em;
+}
+
+a:hover{
+    text-decoration: underline aqua;
+}
+
+h1,h2,h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 100px;
+
+
+}
+
+.contact_form{
+    background: greenyellow url();
+}
